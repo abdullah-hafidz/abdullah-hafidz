@@ -19,4 +19,4 @@ I’ve spent the last decade helping companies manage technology and transition 
 When I am not at a computer,  I am usually fine-tuning my high-tech planted aquarium setup, working out with calisthenics, or travelling the world with my family. 
 
 ---
-*Always open to chatting about tech, security, or retro games like Double Dragon and Contra. Feel free to say hi!*
+*Always open to chatting about tech, security, or nature aquariums. Feel free to say hi!*
