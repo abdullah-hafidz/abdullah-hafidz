@@ -1,6 +1,6 @@
 # Hi, I'm Hafidz! 👋
 
-> **After 10 years in IT, now exploring further into cybersecurity to build on that foundation. This is my personal space to learn, explore, and inevitably break things.**
+> **After 10+ years in IT, now exploring further into cybersecurity to build on that foundation. This is my personal space to learn, explore, and inevitably break things.**
 
 I’ve spent the last decade helping companies manage technology and transition to the cloud. This is where I test new ideas, document what I learn, and figure out how things actually work under the hood.
 
