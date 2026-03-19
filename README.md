@@ -1,8 +1,9 @@
 # Hi, I'm Hafidz! 👋
 
-> **After 10+ years in IT, now exploring further into cybersecurity to build on that foundation. This is my personal space to learn, explore, and inevitably break things.**
+I’ve spent the last decade helping companies manage technology and transition to the cloud.<br>
+I am now exploring further into cybersecurity to build on that foundation. 
 
-I’ve spent the last decade helping companies manage technology and transition to the cloud. This is where I test new ideas, document what I learn, and figure out how things actually work under the hood.
+This is where I test new ideas, document what I learn, and figure out how things actually work under the hood.
 
 ### 🧪 What's Cooking
 * **[Project-ATLAS](https://github.com/abdullah-hafidz/Project-ATLAS):**  A research project exploring how AI can help security teams automatically investigate cyber threats.
