@@ -1,6 +1,6 @@
 # Hi, I'm Hafidz! 👋
 
-> **After 10+ years in IT, I’m diving into cybersecurity. This is my personal space to learn, explore, and inevitably break things.**
+> **After 10 years in IT, now diving into cybersecurity to build on that foundation. This is my personal space to learn, explore, and inevitably break things.**
 
 I’ve spent the last decade helping companies manage technology and transition to the cloud. This is where I test new ideas, document what I learn, and figure out how things actually work under the hood.
 
@@ -16,7 +16,7 @@ I’ve spent the last decade helping companies manage technology and transition 
 * **My Setup:** AWS, Proxmox, and Unraid (where I host and run these experiments)
 
 ### 🌿 Beyond the Screen
-When I am not at a computer,  I am usually fine-tuning a high-tech planted aquarium setup, working out with calisthenics, or travelling the world with my family. 
+When I am not at a computer,  I am usually fine-tuning my high-tech planted aquarium setup, working out with calisthenics, or travelling the world with my family. 
 
 ---
 *Always open to chatting about tech, security, or retro games like Double Dragon and Contra. Feel free to say hi!*
